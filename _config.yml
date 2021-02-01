@@ -9,9 +9,11 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Chris Le # add your name
 author-img: profile_pic.jpg # add your photo
-about-author:  Some things that I am proud of, but mostly navel gazing, still-forming ideas, and shouting into the void. Just trying to learn and grow as much as I can # add description
+about-author:  "Some things that I am proud of, but mostly navel gazing, still-forming ideas, and shouting into the void. \n Just trying to learn and grow as much as I can # add description"
 social-twitter: ChristopherTNLe # add your Twitter handle
+social-facebook: #
 social-github: ctnle # add your Github handle
+social-linkedin: #
 social-email: cle7@jh.edu add your Email address
 
 # Disqus
