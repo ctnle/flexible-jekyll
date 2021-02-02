@@ -9,9 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Chris Le # add your name
 author-img: profile_pic.jpg # add your photo
-about-author:  "Here are a few things that I am proud of - but mostly its half-formed ideas and shouting into the void. \n"
-
-"\nJust trying to learn and grow as much as I can" # add description
+about-author:  "Here are a few things that I am proud of - but mostly its half-formed ideas and shouting into the void. \n\nJust trying to learn and grow as much as I can" # add description
 social-twitter: ChristopherTNLe # add your Twitter handle
 social-facebook: #
 social-github: ctnle # add your Github handle

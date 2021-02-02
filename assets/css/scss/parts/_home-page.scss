@@ -37,7 +37,7 @@
     position: relative;
     padding-bottom: 15px;
     font-size: 16px;
-    text-transform: uppercase;
+    #text-transform: uppercase;
     color: $dark;
     font-weight: 700;
     &::after {
@@ -54,6 +54,7 @@
     }
   }
   p {
+    font-family: 'Open Sans', italic;
     font-size: 16px;
     margin: 0 0 10px;
   }
